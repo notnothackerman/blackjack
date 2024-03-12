@@ -243,10 +243,3 @@ if greeting == "y":
   game()
 
 
-
-
-
-
-
-SyntaxError: multiple statements found while compiling a single statement
->>> 
